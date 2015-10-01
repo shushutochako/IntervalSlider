@@ -22,7 +22,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/<GITHUB_USERNAME>/IntervalSlider"
   # s.screenshots     = "www.example.com/screenshots_1", "www.example.com/screenshots_2"
   s.license          = 'MIT'
-  s.author           = { "増島 亘康" => "masujima_nobuyasu_gn@cyberagent.co.jp" }
+  s.author           = { "shushutochako" => "shushutochako22@gmail.com" }
   s.source           = { :git => "https://github.com/<GITHUB_USERNAME>/IntervalSlider.git", :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 

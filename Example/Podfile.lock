@@ -1,0 +1,14 @@
+PODS:
+  - IntervalSlider (0.1.0)
+
+DEPENDENCIES:
+  - IntervalSlider (from `../`)
+
+EXTERNAL SOURCES:
+  IntervalSlider:
+    :path: ../
+
+SPEC CHECKSUMS:
+  IntervalSlider: 2635d3172722c3f7ccc41c5086216f9d526afc05
+
+COCOAPODS: 0.38.2
